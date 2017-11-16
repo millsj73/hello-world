@@ -1,3 +1,3 @@
 # hello-world
 My hello world repository
-This is a chnage needed for the readme file.
+This is a change needed for the readme file.
