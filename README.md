@@ -10,3 +10,4 @@ edit right on master
 linux master
 add newFeature
 stashed
+line12
