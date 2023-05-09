@@ -11,4 +11,5 @@ linux master
 add newFeature
 stashed
 line12
-another line
+anotherish line
+afterwards
